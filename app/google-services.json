@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "526162416880",
+    "firebase_url": "https://ocrscanner-fp.firebaseio.com",
+    "project_id": "ocrscanner-fp",
+    "storage_bucket": "ocrscanner-fp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526162416880:android:ed8c23651657ff0f",
+        "android_client_info": {
+          "package_name": "com.example.mobeen.ocrscanner_fp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526162416880-hvpsadrfjvpvn4f4oh37avdgmjndf08s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobeen.ocrscanner_fp",
+            "certificate_hash": "6a9d9adf3e31fe62e00fe6112e475e90b8923a19"
+          }
+        },
+        {
+          "client_id": "526162416880-um5n54loj1p4mtpvh2gu2ou4bivvtu0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdO5UsSTvz2vw6ZTL85cdgXTO_8nRTPt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526162416880-um5n54loj1p4mtpvh2gu2ou4bivvtu0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
